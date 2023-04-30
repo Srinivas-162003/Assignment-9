@@ -4,8 +4,8 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.sql.Connection;
 
-// Name: Najeeb Fariduddin Saiyed
-// PRN: 21070126057
+// Name: Srinivas Kota
+// PRN: 21070126050
 
 
 public class As9 {
